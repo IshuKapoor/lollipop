@@ -1,0 +1,25 @@
+body{
+    background: #402f57;
+}
+.lollipop{
+    margin-top: 100px;
+    height: 250px;
+    width: 250px;
+    border-radius: 250px;
+    background: #ff9700;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.44);
+}
+.shade{
+    height: 120px;
+    width: 120px;
+    border-radius: 120px;
+    transform: translateY(50px);
+    margin-right: 65px;
+    background: rgba(255,225,182,0.37);
+}
+.stick{
+    height: 190px;
+    width: 20px;
+    margin-top: -1px;
+    background: #f4eaea;
+}
